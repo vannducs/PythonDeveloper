@@ -1,0 +1,3 @@
+$env:Path += ";C:\Program Files\PostgreSQL\16\bin" #powershell
+set PATH=%PATH%;C:\Program Files\PostgreSQL\16\bin  #cmd
+"C:\Program Files\PostgreSQL\18\bin\psql.exe"
